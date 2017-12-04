@@ -1,0 +1,7 @@
+.image-border{
+    border: 1px solid black;
+}
+
+#episodeName:hover{
+    cursor: pointer; cursor: hand;
+}
